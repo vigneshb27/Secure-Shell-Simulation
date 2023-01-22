@@ -1,0 +1,156 @@
+2023-01-12 18:17:23,247 - INFO - USER DATA : {'Rachana': '40851e7278f79aac1adf82d0cef403bf4b0d2c90a3319b0b4d96a1a0245b7bf59d01353b6d4ab691471e11d3bdb4d0cbb3346573197c57afe4fb2ec763684a2a'}
+2023-01-12 18:17:23,249 - INFO - Listening on 8002
+2023-01-12 18:17:30,809 - DEBUG - New client connection
+2023-01-12 18:17:30,813 - DEBUG - Client ready for reading 332
+2023-01-12 18:17:30,813 - DEBUG - No handshake yet
+2023-01-12 18:17:30,813 - DEBUG - Begin handshake: GET / HTTP/1.1
+Host: localhost:8002
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: IldnmDHqS4vrCFRxwY4KaQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+2023-01-12 18:17:30,814 - DEBUG - Sending handshake HTTP/1.1 101 Switching Protocols
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Accept: vSsgZAvl5eFY21WDoZihNZz09F0=
+
+
+2023-01-12 18:17:30,814 - INFO - Handshake successful
+2023-01-12 18:18:13,862 - DEBUG - Client ready for reading 332
+2023-01-12 18:18:13,862 - DEBUG - Handshake is already complete
+2023-01-12 18:18:41,124 - DEBUG - Client ready for reading 332
+2023-01-12 18:18:41,124 - DEBUG - Handshake is already complete
+2023-01-12 18:18:41,127 - DEBUG - password
+2023-01-12 18:18:41,131 - DEBUG - b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86
+2023-01-12 18:20:00,940 - DEBUG - Client ready for reading 332
+2023-01-12 18:20:00,940 - DEBUG - Handshake is already complete
+2023-01-12 18:20:01,238 - DEBUG - Input: 
+2023-01-12 18:20:01,239 - DEBUG - Output: 
+2023-01-12 18:20:29,185 - DEBUG - Client ready for reading 332
+2023-01-12 18:20:29,185 - DEBUG - Closing client 332
+2023-01-12 18:20:29,863 - DEBUG - New client connection
+2023-01-12 18:20:29,872 - DEBUG - Client ready for reading 444
+2023-01-12 18:20:29,872 - DEBUG - No handshake yet
+2023-01-12 18:20:29,872 - DEBUG - Begin handshake: GET / HTTP/1.1
+Host: localhost:8002
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: v65Mcjz+9TYP+WHQ/cmu2Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+2023-01-12 18:20:29,877 - DEBUG - Sending handshake HTTP/1.1 101 Switching Protocols
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Accept: fASBU+OmIIK1nKK5lmH31HJ5omo=
+
+
+2023-01-12 18:20:29,878 - INFO - Handshake successful
+2023-01-12 18:20:38,077 - DEBUG - Client ready for reading 444
+2023-01-12 18:20:38,077 - DEBUG - Handshake is already complete
+2023-01-12 18:20:42,258 - DEBUG - Client ready for reading 444
+2023-01-12 18:20:42,258 - DEBUG - Handshake is already complete
+2023-01-12 18:20:42,258 - DEBUG - hlo
+2023-01-12 18:20:42,259 - DEBUG - 4ccd52afe6321bb6a883e01e971e919fc91a12037201753190eead6a24e031bea6d3959efe207a24a3e89cf840fdcd1ae69f4d05b11c06cff4edb89ccc11e588
+2023-01-12 18:20:50,259 - INFO - Caught Ctrl+C, shutting down...
+2023-01-12 18:21:02,834 - INFO - USER DATA : {'Rachana': '40851e7278f79aac1adf82d0cef403bf4b0d2c90a3319b0b4d96a1a0245b7bf59d01353b6d4ab691471e11d3bdb4d0cbb3346573197c57afe4fb2ec763684a2a', 'User': 'b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86'}
+2023-01-12 18:21:02,837 - INFO - Listening on 8002
+2023-01-12 18:21:11,354 - DEBUG - New client connection
+2023-01-12 18:21:11,355 - DEBUG - Client ready for reading 728
+2023-01-12 18:21:11,355 - DEBUG - No handshake yet
+2023-01-12 18:21:11,355 - DEBUG - Begin handshake: GET / HTTP/1.1
+Host: localhost:8002
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: aVz4qqHs+6ezfBNUMNu5rQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+2023-01-12 18:21:11,356 - DEBUG - Sending handshake HTTP/1.1 101 Switching Protocols
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Accept: AncBVFfTHCkSo4jYNrZwduQuixM=
+
+
+2023-01-12 18:21:11,356 - INFO - Handshake successful
+2023-01-12 18:21:15,382 - DEBUG - Client ready for reading 728
+2023-01-12 18:21:15,382 - DEBUG - Handshake is already complete
+2023-01-12 18:21:18,370 - DEBUG - Client ready for reading 728
+2023-01-12 18:21:18,370 - DEBUG - Handshake is already complete
+2023-01-12 18:21:18,371 - DEBUG - hlo
+2023-01-12 18:21:18,371 - DEBUG - 4ccd52afe6321bb6a883e01e971e919fc91a12037201753190eead6a24e031bea6d3959efe207a24a3e89cf840fdcd1ae69f4d05b11c06cff4edb89ccc11e588
+2023-01-12 18:21:25,397 - DEBUG - Client ready for reading 728
+2023-01-12 18:21:25,397 - DEBUG - Handshake is already complete
+2023-01-12 18:21:37,854 - INFO - Caught Ctrl+C, shutting down...
+2023-01-12 18:21:39,880 - INFO - USER DATA : {'Rachana': '40851e7278f79aac1adf82d0cef403bf4b0d2c90a3319b0b4d96a1a0245b7bf59d01353b6d4ab691471e11d3bdb4d0cbb3346573197c57afe4fb2ec763684a2a', 'User': 'b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86'}
+2023-01-12 18:21:39,882 - INFO - Listening on 8002
+2023-01-12 18:23:23,889 - DEBUG - New client connection
+2023-01-12 18:23:23,892 - DEBUG - Client ready for reading 448
+2023-01-12 18:23:23,892 - DEBUG - No handshake yet
+2023-01-12 18:23:23,892 - DEBUG - Begin handshake: GET / HTTP/1.1
+Host: localhost:8002
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: null
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: YouxYsIcpVGmZbC+sSk2Qg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+2023-01-12 18:23:23,893 - DEBUG - Sending handshake HTTP/1.1 101 Switching Protocols
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Accept: m1C/DuqhTIUHmqFV/GYVpyniEAc=
+
+
+2023-01-12 18:23:23,893 - INFO - Handshake successful
+2023-01-12 18:23:29,517 - DEBUG - Client ready for reading 448
+2023-01-12 18:23:29,517 - DEBUG - Handshake is already complete
+2023-01-12 18:23:38,203 - DEBUG - Client ready for reading 448
+2023-01-12 18:23:38,204 - DEBUG - Handshake is already complete
+2023-01-12 18:23:38,211 - DEBUG - password
+2023-01-12 18:23:38,214 - DEBUG - b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86
+2023-01-12 18:23:47,945 - DEBUG - Client ready for reading 448
+2023-01-12 18:23:47,945 - DEBUG - Handshake is already complete
+2023-01-12 18:23:48,074 - DEBUG - Input: dir
+2023-01-12 18:23:48,074 - DEBUG - Output:  Volume in drive F is New Volume
+ Volume Serial Number is 9CA2-5EB5
+
+ Directory of F:\SecureShell
+
+12-01-2023  12:56    <DIR>          .
+12-01-2023  00:31             2,898 client.html
+12-01-2023  12:48             4,229 demo.txt
+11-01-2023  19:06             1,527 README.md
+12-01-2023  18:20            12,859 server.py
+12-01-2023  00:33               660 styles.css
+12-01-2023  18:21             5,460 testfile.log
+12-01-2023  18:19               271 user_data.txt
+               7 File(s)         27,904 bytes
+               1 Dir(s)  117,095,067,648 bytes free
+
+2023-01-12 18:23:56,310 - DEBUG - Client ready for reading 448
+2023-01-12 18:23:56,310 - DEBUG - Handshake is already complete
+2023-01-12 18:23:56,490 - DEBUG - Input: 
+2023-01-12 18:23:56,490 - DEBUG - Output: 
+2023-01-12 18:24:00,165 - INFO - Caught Ctrl+C, shutting down...
